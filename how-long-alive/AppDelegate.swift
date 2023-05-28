@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  how-long-alive
 //
-//  Created by Andriy Pylo on 28.05.2023.
 //
 
 import UIKit
